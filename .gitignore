@@ -1,0 +1,5 @@
+.vscode/
+venv/
+*.csv
+playground.ipynb
+.ipynb_checkpoints
