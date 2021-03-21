@@ -1,5 +1,4 @@
 .vscode/
-venv/
+polars-env/
 *.csv
-playground.ipynb
-.ipynb_checkpoints
+.ipynb_checkpoints/
